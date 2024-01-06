@@ -2,7 +2,7 @@ const { MongoClient } = require('mongodb');
 const { OpenAIAPI } = require('openai');
 
 
-const mongoUrl = 'mongodb+srv://malavikavenu914:snjy5678@cluster0.8duiran.mongodb.net/ProductListing?retryWrites=true&w=majority ';
+const mongoUrl = ' ';
 
 const dbName = 'ProductListing';
 
